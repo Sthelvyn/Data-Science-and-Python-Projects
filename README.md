@@ -21,7 +21,7 @@ My credentials include a Master's in Space Science and Technology from the Aeron
 
 ## Projetos:
 
-* **Como usar o Histograma para Data Science: http://bit.ly/3Svyt9H**
+* **Análise Exploratória de dados do Airbnb de Montreal: http://bit.ly/3Svyt9H**
 
 ---
 

@@ -7,8 +7,8 @@
 # Moisés Sthelvyn
 <sub>*Data Scientist</sub>
 
-Consultor de sistemas, migrando para a área de Data Science. Apaixonado por dados!
-Aqui se concentra meus projetos de Data Science.
+Consultant of systems, transitioning to the Data Science field. Passionate about data!
+Here is where my Data Science projects are concentrated.
 
 **Background in:** Python, Machine Learning, Deep Learning and Power BI.
 

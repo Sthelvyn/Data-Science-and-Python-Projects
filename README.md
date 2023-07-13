@@ -22,6 +22,7 @@ Here is where my Data Science projects are concentrated.
 
 * **Análise Exploratória de dados do Airbnb de Montreal: http://bit.ly/3Svyt9H**
 * **Detecção de Microexpressões faciais em PYTHON: http://bit.ly/3Foi3ui**
+* **Análise com Python sobre Covid no Mundo: https://bit.ly/46PmytO**
 
 ---
 
